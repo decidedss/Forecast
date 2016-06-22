@@ -29,7 +29,6 @@ public class ForecastParser {
 
     static Properties props = new Properties();
     //static String propertiesPath = "D:\\\\public\\\\forecast\\\\properties\\\\forecast.properties";
-    //static String propertiesPath = "/home/pmalasio/forecastWebdev4.properties";
     static String propertiesPath = "/home/userdecide/forecast.properties";
 
 
